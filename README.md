@@ -1,4 +1,3 @@
-[README.MD](https://github.com/user-attachments/files/22127339/README.MD)
 # Ransomware Protection Guard
 
 A lightweight Python script that monitors a folder in real time to detect suspicious ransomware activity. It leverages multiple heuristics—checksum, entropy, printable character ratio, n‑gram analysis, burst detection and honeypots—to identify unauthorized or malicious changes in `.txt` files without polling or heavy I/O.
